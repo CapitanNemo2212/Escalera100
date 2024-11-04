@@ -334,13 +334,4 @@ system("cls");
     }
 }
 
-void cargarVectorManual(int v[],int tam){
-
-    for(int i=0; i<tam; i++){
-
-        cout<<"Ingrese valor: ";
-        cin>>v[i];
-        cout<<endl;
-    }
-}
 
